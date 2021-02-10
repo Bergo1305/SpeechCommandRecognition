@@ -1,3 +1,4 @@
 tensroflow-gpu==1.14.0
 tensorflow==1.14.0
 kapre==0.2.0
+Keras==2.3.1

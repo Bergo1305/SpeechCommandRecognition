@@ -83,8 +83,8 @@ if __name__ == "__main__":
 
     model_visualizer = ModelVisualizer(history)
     model_visualizer.plot(
-        accuracy_img_path="train/val-accuracy.png",
-        loss_img_path="train/val-loss.png"
+        accuracy_img_path="train-val-accuracy.png",
+        loss_img_path="train-val-loss.png"
     )
 
 
